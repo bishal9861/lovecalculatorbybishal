@@ -1,0 +1,159 @@
+.header-item1{
+    background-color: aqua;
+    float: left;
+    width: 50%;
+}
+.header-item2{
+    background-color:lightpink;
+    float: left;
+    width: 50%;
+}
+.header-item2-1{
+    float:right;
+    padding-right: 10px;
+    border: 1px solid black;
+    padding-left: 10px;
+    margin-right: 10px;
+    font-size: 31.2px;
+    opacity: 0.8;
+    color: red;
+    border-radius: 50%;
+
+    
+    
+}
+*{
+    box-sizing: border-box;
+}
+.header-item1-1{
+    padding-left: 20px;
+    letter-spacing: 3px;
+    font-weight:bolder;
+    color:slateblue;
+    opacity: 0.9;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:2rem;
+
+}
+.main{
+    height: 630px;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1507010430300-19de132ce5ea?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80");
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+.footer{
+    height:55px;
+    width: 100%;
+    background-color:thistle
+}
+
+.footer-item1-1{
+    float:right;
+    
+    padding-right: 10px;
+    font-weight: 400;
+    padding-top: 13px;
+}
+.main-item{
+   
+   width: 50%;
+   
+   position: absolute;
+   top: 296px;
+   left: 376px;
+   
+   
+  
+
+}
+input[type=text]{
+    background-color:rgba(241, 241, 241, 0.4);
+    padding: 7px;
+    margin-left: 170px;
+    border-top: none;
+    border-left: none;
+    box-shadow: 1px 1px 10px rgba(192,192,192,0.5);
+    border-radius: 2px;
+
+    
+}
+.buttonbelow{
+    margin-left: 294px;
+}
+.buttonbelow button{
+    padding: 12px;
+    letter-spacing: 1.2px;
+    border: 1px solid black;
+    border-radius: 13px;
+    font-size: 20px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+     box-shadow:0.04px 0.01px 2px silver ;
+     background-color: rgba(241, 106, 82,0.8);
+}
+::-webkit-input-placeholder { 
+    opacity: 0.93;
+    color: rgb(36, 28, 28);
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 0.7px;
+
+}
+.display-view{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+#ans{
+    display: inline-block;
+    margin-left: 720px;
+    opacity: 0.8;
+    font-weight: bolder;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+    
+    
+}
+.spclass{
+    font-size: 30px;
+}
+.foot{
+    color:black;
+    display: inline-block;
+    opacity:0.7;
+    font-weight: bolder;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
